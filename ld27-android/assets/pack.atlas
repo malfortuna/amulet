@@ -1,0 +1,173 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrows
+  rotate: false
+  xy: 1, 13
+  size: 80, 10
+  orig: 80, 10
+  offset: 0, 0
+  index: -1
+amulet_strip
+  rotate: false
+  xy: 83, 3
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+party
+  rotate: false
+  xy: 125, 3
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+amulet
+  rotate: false
+  xy: 167, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+amuletcage
+  rotate: false
+  xy: 189, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+beholder
+  rotate: false
+  xy: 211, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+bricktile
+  rotate: false
+  xy: 233, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+damage
+  rotate: false
+  xy: 255, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dummy
+  rotate: false
+  xy: 277, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floortile
+  rotate: false
+  xy: 299, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 321, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 343, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+lava
+  rotate: false
+  xy: 365, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 387, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+thief
+  rotate: false
+  xy: 409, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+troll
+  rotate: false
+  xy: 431, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+arrow-b
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-bl
+  rotate: false
+  xy: 453, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-br
+  rotate: false
+  xy: 13, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-l
+  rotate: false
+  xy: 465, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-r
+  rotate: false
+  xy: 465, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-t
+  rotate: false
+  xy: 25, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-tl
+  rotate: false
+  xy: 477, 13
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+arrow-tr
+  rotate: false
+  xy: 37, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
